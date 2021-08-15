@@ -798,6 +798,9 @@ section {
     display: flex;
     align-items: center;
   }
+  .header__navbar .navbar {
+    display: initial;
+  }
   .header__menu {
     display: none;
   }
